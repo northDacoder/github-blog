@@ -1,15 +1,16 @@
 # Site settings
 title: NorthDacoders Blog
-tagline: And Tagline
-email: webcreatelk@gmail.com
+tagline: JavaScript for breakfast, Python for lunch, GitHub for dinner.
+email: northdacoder@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hi, I’m a professional UI/UX designrer and web developer.
-  I love being minimal and creative.
+  Hi, I'm John Ryan.  I am a builder & a lifelong learner.
+  Oh ya, I also love teaching people how to build amazing
+  web applications.
 baseurl: "/github-blog" # the subpath of your site, e.g. /blog/
 url: "http://northdacoder.github.io/" # the base hostname & protocol for your site
 logourl: /assets/images/logo.png # Site logo
 author: "John Ryan"
-author_thumbnail: "/assets/images/avatar.jpg" # Author avatar
+author_thumbnail: "/assets/images/johnyeti.png" # Author avatar
 # Theme customization - please change from the defaults!
 theme:
   # Color for sidebar bar, links, etc
